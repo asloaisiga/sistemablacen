@@ -1,0 +1,12 @@
+========== FACTURA ==========
+Cliente: Pancho Pérez
+Fecha: 26-06-2025
+Producto	Cant	Precio	Total
+Cable clutch	1	C$550	C$550
+
+Subtotal: C$550.00
+IVA (15%): C$82.50
+Descuento: C$11.00
+TOTAL A PAGAR: C$621.50
+=============================
+
