@@ -1,4 +1,4 @@
-PROYECTO FINAL DE I SEMESTRE 
+PROYECTO FINAL DE I SEMESTRE 2025
 - INTRODUCCIÓN A LA PROGRAMACIÓN -
 GRUPO 3 - Grupo de trabajo No. 3
 Integrantes:
@@ -6,6 +6,23 @@ Integrantes:
 2. Chelsea Yosmara Quintanilla. 
 3. Fabiola Saraí Lanuza Paz.
 4. Luis Lenin Aguirre Vilchez.
+
+Datos complementarios.
+
+Carrera: Ingeniería en Sistemas de Información
+
+Año que cursamos: 1er año.
+
+Universidad Americana UAM
+
+
+Facultad de Ingeniería y Arquitectura
+
+
+Docente: MSc. Silvia Gigdalia Ticay López.
+
+
+
 
 Trabajando en: SISTEMA BLACEN.
 
@@ -20,3 +37,4 @@ En este repositorio se encuentra:
 
 
 NOTA: Aspectos mencionados en los numerales 4 y 5 se encuentran alojados en el archivo .txt llamado "links de la documentación".
+
